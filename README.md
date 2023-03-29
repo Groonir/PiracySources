@@ -2,7 +2,9 @@
 Groonir's list of recommended websites for piracy &amp; more
 <details>
 test
-</details>
+
+
+############
 
 # Contents
 
@@ -13,3 +15,4 @@ test
 libgen.rs
 
 
+</details>
