@@ -1,7 +1,7 @@
 # GroonirsPiracyList
 Groonir's list of recommended websites for piracy &amp; more
 
-Trying to be what Google was before but for Pirates.
+Trying to be what Google was but for Pirates.
 
 -----------------
 
@@ -11,11 +11,14 @@ Trying to be what Google was before but for Pirates.
 
 - [Communication](#communication)
 - [Electronic Mail](#email)
-- [Torrents](#torrents)
+
 
 
 - [Movies & TV](#movies--tv)
+- [Torrents](#torrents)
 - [Video Games](#video-games)
+
+-----------------
 <details>
 
   <summary> Open List Here </summary>
@@ -32,11 +35,7 @@ Trying to be what Google was before but for Pirates.
 
 
 
-## Video Games
 
-- [fitgirlrepacks.site](fitgirlrepacks.site) - Largest video game repacker
-
-- [igg games](igg-games.com) - Good for niche games 
   
   
 
@@ -57,18 +56,24 @@ Trying to be what Google was before but for Pirates.
   - [Tutanota](https://tutanota.com/) - Encrypted mail
   
   - 
-## Torrents
-  
-  
-  
-  - [QBittorrent](qbittorrent.org) - Open source torrent client
-  
+
   
 ## Movies & TV
 - [GogoAnime](https://gogoanime.llc) Anime site with old-looking user interface
 - [Zoro](zoro.to) Anime site with modrn user interface
 - [FMovies](fmovies.to) - Movie and Tv show aggregator
 - [Soap2Day](soap2day.to) - Tv shows aggregator
+
+## Torrents
   
+  
+  
+  - [QBittorrent](qbittorrent.org) - Open source torrent client
+  
+## Video Games
+
+- [fitgirlrepacks.site](fitgirlrepacks.site) - Largest video game repacker
+
+- [igg games](igg-games.com) - Good for niche games 
 
 </details>
