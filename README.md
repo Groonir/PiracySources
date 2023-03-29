@@ -10,6 +10,7 @@ Groonir's list of recommended websites for piracy &amp; more
 - [Video Games](#VideoGames)
 - [Communication](#Communication)
 
+<details>
 
 ## Books
 - [libgen](libgen.rs) - good for eBooks and scientific papers 
@@ -41,3 +42,4 @@ Groonir's list of recommended websites for piracy &amp; more
 
 - [Briar](briar.org) - E2E chat service 
 - 
+</details>
