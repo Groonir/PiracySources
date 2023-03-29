@@ -8,15 +8,18 @@ Trying to be what Google was before but for Pirates.
 # Contents
 
 - [Books](#books)
-- [Video Games](#video-games)
+
 - [Communication](#communication)
 - [Electronic Mail](#email)
 - [Torrents](#torrents)
 
 
-- [Movies & TV](#moviestv)
+- [Movies & TV](#movies--tv)
+- [Video Games](#video-games)
 <details>
 
+  <summary> Open List Here </summary>
+  
 ## Books
 - [libgen](libgen.rs) - Good for eBooks and scientific papers 
 
@@ -61,7 +64,11 @@ Trying to be what Google was before but for Pirates.
   - [QBittorrent](qbittorrent.org) - Open source torrent client
   
   
-## Movies&TV
-sdsds
+## Movies & TV
+- [GogoAnime](https://gogoanime.llc) Anime site with old-looking user interface
+- [Zoro](zoro.to) Anime site with modrn user interface
+- [FMovies](fmovies.to) - Movie and Tv show aggregator
+- [Soap2Day](soap2day.to) - Tv shows aggregator
   
+
 </details>
