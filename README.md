@@ -22,27 +22,25 @@ Trying to be what Google was but for Pirates.
 -----------------
 
 ## Books
-- [libgen](libgen.rs) - Good for eBooks and scientific papers 
+- [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
   
   
 
-## Communication
+## Communication 
 
-- [Telegram](telegram.org) - Chat with many piracy channels (needs a phone number)
+- [Signal](https://signal.org) - E2E video and chat service 
 
-- [Signal](signal.org) - E2E video and chat service 
-
-- [Briar](briar.org) - E2E chat service 
+- [Briar](https://briar.org) - E2E chat service 
 
 - 
  
 ## Email
 
-  - [Proton Mail](proton.me/mail) - Encrypted mail with proprietary code
+  - [Proton Mail](https://proton.me/mail) - Encrypted mail with proprietary code
   
-  - [Emailnator](emailnator.com) - One of many temporary email services which I prefer
+  - [Emailnator](https://emailnator.com) - One of many temporary email services which I prefer
   
   - [Tutanota](https://tutanota.com/) - Encrypted mail
   
@@ -52,18 +50,19 @@ Trying to be what Google was but for Pirates.
 ## Movies & TV
 
 - [GogoAnime](https://gogoanime.llc) - Anime site with old-looking user interface
-- [Zoro](zoro.to) - Anime site with modrn user interface
-- [FMovies](fmovies.to) - Movie and Tv show aggregator
-- [Soap2Day](soap2day.to) - Tv shows aggregator
+- [Zoro](https://zoro.to) - Anime site with modrn user interface
+- [FMovies](https://fmovies.to) - Movie and Tv show aggregator
+- [Soap2Day](https://soap2day.to) - Tv shows aggregator
 
 ## Torrents
 
-- [QBittorrent](qbittorrent.org) - Open source torrent client
+- [QBittorrent](https://qbittorrent.org) - Open source torrent client
   
+- [Nyaa.si](https://nyaa.si) - Anything anime related
+
 ## Video Games
 
-- [fitgirlrepacks.site](fitgirlrepacks.site) - Largest video game repacker
+- [fitgirlrepacks.site](https://fitgirlrepacks.site) - Largest video game repacker
 
-- [igg games](igg-games.com) - Good for niche games 
-
+- [igg games](https://igg-games.com) - Good for niche games 
 
