@@ -8,20 +8,19 @@ Trying to be what Google was before but for Pirates.
 # Contents
 
 - [Books](#books)
-- [Video Games](#VideoGames)
-- [Communication](#Communication)
-- [Electronic Mail](#Email)
+- [Video Games](#video-games)
+- [Communication](#communication)
+- [Electronic Mail](#email)
+- [Torrents](#torrents)
 
+
+- [Movies & TV](#moviestv)
 <details>
 
 ## Books
 - [libgen](libgen.rs) - Good for eBooks and scientific papers 
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
-
-
-
-
 
 
 
@@ -46,9 +45,23 @@ Trying to be what Google was before but for Pirates.
 
 - [Briar](briar.org) - E2E chat service 
 - 
+ 
+## Email
+  - [Proton Mail](proton.me/mail) - Encrypted mail with proprietary code
   
- ## Email
-  - [Proton Mail](proton.me/mail) - Privacy conscious email service with proprietary code
+  - [Emailnator](emailnator.com) - One of many temporary email services which I prefer
   
-  - [Temporary Email](emailnator.com) - One of many temporary email services which I prefer
+  - [Tutanota](https://tutanota.com/) - Encrypted mail
+  
+  - 
+## Torrents
+  
+  
+  
+  - [QBittorrent](qbittorrent.org) - Open source torrent client
+  
+  
+## Movies&TV
+sdsds
+  
 </details>
