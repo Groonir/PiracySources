@@ -1,7 +1,7 @@
 # GroonirsPiracyList
 Groonir's list of recommended websites for piracy &amp; more
 
-
+Trying to be what Google was before but for Pirates
 -----------------
 
 # Contents
