@@ -2,12 +2,12 @@
 Groonir's list of recommended websites for piracy &amp; more
 
 
-############
+-----------------
 
 # Contents
 
 - [Books](#books)
-- [Video Games](#Video Games)
+- [Video Games](#VideoGames)
 
 
 ## Books
