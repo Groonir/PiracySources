@@ -1,6 +1,6 @@
 # GroonirsPiracyList
 Groonir's list of recommended websites for piracy &amp; more
-<Click Here>
+<details>
 test
 
 
@@ -15,4 +15,4 @@ test
 libgen.rs
 
 
-</Click Here>
+</details>
