@@ -11,7 +11,7 @@ Groonir's list of recommended websites for piracy &amp; more
 
 
 ## Books
-libgen.rs
+[libgen](libgen.rs) - good for eBooks and scientific papers 
 gutemberg
 
 ## Video Games
