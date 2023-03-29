@@ -12,8 +12,8 @@ Groonir's list of recommended websites for piracy &amp; more
 
 ## Books
 [libgen](libgen.rs) - good for eBooks and scientific papers 
-gutemberg
+[gutemberg](https://www.gutenberg.org/) - Legal Book library
 
 ## Video Games
-fitgirlrepacks.site
-igg-games.com
+[fitgirlrepacks.site](fitgirlrepacks.site) - Largest video game repacker
+[igg games](igg-games.com) - Good for niche games 
