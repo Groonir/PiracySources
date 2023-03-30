@@ -2,7 +2,7 @@
 
 Groonir's list of recommended websites for piracy &amp; privacy
 
-> Feel free to contribute!
+> Feel free to [contribute](https://github.com/Groonir/GroonirsPiracyList/issues/new)!
 
 [Contact me](mailto:8jf4n3r@proton.me)
 
