@@ -9,6 +9,10 @@ Trying to be what Google was but for Pirates.
 
 - [Books](#books)
 
+- [Browsers](#browsers)
+
+   - [Browser Addons](#browser-addons)
+
 - [Communication](#communication)
 
 - [Electronic Mail](#email)
@@ -26,7 +30,11 @@ Trying to be what Google was but for Pirates.
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
   
-  
+## Browsers
+
+### Browser Addons
+
+
 
 ## Communication 
 
