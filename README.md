@@ -4,7 +4,7 @@ Groonir's list of recommended websites for piracy &amp; privacy
 
 > Feel free to contribute!
 
-[My Email](#my-email)
+[Contact me](mailto:8jf4n3r@proton.me)
 
 -----------------
 
@@ -19,6 +19,8 @@ Groonir's list of recommended websites for piracy &amp; privacy
 - [Communication](#communication)
 
 - [Electronic Mail](#email)
+
+- [File Management](#file-management)
 
 - [Movies & TV](#movies--tv)
 
@@ -78,7 +80,15 @@ Groonir's list of recommended websites for piracy &amp; privacy
   
   - 
 
-  
+ 
+ ## File Management
+ 
+- [SyncThing](https://syncthing.net/) - Sync files between devices
+
+- [KDE Connect](https://kdeconnect.kde.org/) - Send files, send input and push clipboard between devices
+
+
+ 
 ## Movies & TV
 
 - [GogoAnime](https://gogoanime.llc) - Anime site with old-looking user interface
@@ -136,5 +146,4 @@ Groonir's list of recommended websites for piracy &amp; privacy
 
 - [Archive.org](https://archive.org) - Find old stuff
 
-#### My Email
-[Contact Groonir](mailto:8jf4n3r@proton.me)
+
