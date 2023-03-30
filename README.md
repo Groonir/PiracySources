@@ -1,7 +1,7 @@
 # GroonirsPiracyList
 Groonir's list of recommended websites for piracy &amp; more
 
-Trying to be what Google was but for Pirates.
+> Trying to be what Google was but for Pirates.
 
 -----------------
 
@@ -47,7 +47,7 @@ Trying to be what Google was but for Pirates.
 
 - [Canvas Blocker](https://github.com/kkapsner/CanvasBlocker) - Prevents Javascript fingerprinting
 
-- [NoScript]() - Javascript blocker
+- [NoScript](https://github.com/hackademix/noscript/) - Javascript blocker
 
 ## Communication 
 
@@ -95,5 +95,5 @@ Trying to be what Google was but for Pirates.
 
 - [Prism Break](https://prism-break.com) - Source of open source software to escape government tracking
 
-- [Archive.org](https://archive.org) - Source of anything old
+- [Archive.org](https://archive.org) - Find old stuff
 
