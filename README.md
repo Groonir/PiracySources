@@ -1,7 +1,10 @@
 # GroonirsPiracyList
-Groonir's list of recommended websites for piracy &amp; more
 
-> Trying to be what Google was but for Pirates.
+Groonir's list of recommended websites for piracy &amp; privacy
+
+> Feel free to contribute!
+
+[My Email](#my-email)
 
 -----------------
 
@@ -18,6 +21,14 @@ Groonir's list of recommended websites for piracy &amp; more
 - [Electronic Mail](#email)
 
 - [Movies & TV](#movies--tv)
+
+- [OS Exclusives](#os-exclusives)
+
+   - [Android](#android)
+   
+   - [IOS](#ios)
+   
+   - [Windows](#windows)
 
 - [Torrents](#torrents)
 
@@ -49,6 +60,8 @@ Groonir's list of recommended websites for piracy &amp; more
 
 - [NoScript](https://github.com/hackademix/noscript/) - Javascript blocker
 
+- [Sponsor Block](https://github.com/ajayyy/SponsorBlock) - Youtube addon to skip sponsored segments
+
 ## Communication 
 
 - [Signal](https://signal.org) - E2E video and chat service 
@@ -77,16 +90,42 @@ Groonir's list of recommended websites for piracy &amp; more
 - [Soap2Day](https://soap2day.to) - Tv shows aggregator
 
 
+## OS Exclusives
+
+
+
+### Android
+
+- [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid/) - Alternative app store
+
+- [Droidify](https://f-droid.org/en/packages/com.looker.droidify/) - F-Droid Frontend Client
+
+
+
+### IOS
+
+- [Altstore](https://altstore.io/) - Sideload apps without rooting
+
+### Windows
+
+- [Windows 10+ Debloat](https://github.com/LeDragoX/Win-Debloat-Tools) - Tool to debloat windows
+
+
 ## Torrents
 
 - [QBittorrent](https://qbittorrent.org) - Open source torrent client
   
 - [Nyaa.si](https://nyaa.si) - Anything anime related
 
+- [RuTor](http://rutor.info/) - Russian Tracker for games/movies
+
+- [1337x](https://1337x.to/) - Torrent tracker
+
+
 
 ## Video Games
 
-- [fitgirlrepacks.site](https://fitgirlrepacks.site) - Largest video game repacker
+- [fitgirlrepacks.site](https://fitgirl-repacks.site/) - Largest video game repacker
 
 - [igg games](https://igg-games.com) - Source of niche games 
 
@@ -97,3 +136,5 @@ Groonir's list of recommended websites for piracy &amp; more
 
 - [Archive.org](https://archive.org) - Find old stuff
 
+#### My Email
+[Contact Groonir](mailto:8jf4n3r@proton.me)
