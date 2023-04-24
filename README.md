@@ -78,15 +78,15 @@ Groonir's list of recommended websites for piracy &amp; privacy
   
   - [Emailnator](https://emailnator.com) - One of many temporary email services
   
-  - 
 
  
  ## File Management
  
 - [SyncThing](https://syncthing.net/) - Sync files between devices
 
-- [KDE Connect](https://kdeconnect.kde.org/) - Send files, send input and push clipboard between devices
+- [KDE Connect](https://kdeconnect.kde.org/) - Send files, input and push clipboard between devices
 
+  - [AnonFiles](https://anonfiles.com/) - File upload service with 20gb limit
 
  
 ## Movies & TV
@@ -116,6 +116,8 @@ Groonir's list of recommended websites for piracy &amp; privacy
 
 - [Altstore](https://altstore.io/) - Sideload apps without rooting
 
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus/) Youtube without ads and more premium features
+
 ### Windows
 
 - [Windows 10+ Debloat](https://github.com/LeDragoX/Win-Debloat-Tools) - Tool to debloat windows
@@ -128,6 +130,8 @@ Groonir's list of recommended websites for piracy &amp; privacy
 - [Nyaa.si](https://nyaa.si) - Anything anime related
 
 - [RuTor](http://rutor.info/) - Russian Tracker for games/movies
+
+
 
 - [1337x](https://1337x.to/) - Torrent tracker
 
