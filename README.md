@@ -131,15 +131,15 @@ Groonir's list of recommended websites for piracy &amp; privacy
 
 - [RuTor](http://rutor.info/) - Russian Tracker for games/movies
 
-
-
 - [1337x](https://1337x.to/) - Torrent tracker
 
 
 
 ## Video Games
 
-- [fitgirlrepacks.site](https://fitgirl-repacks.site/) - Largest video game repacker
+- [fitgirlrepacks.site](https://fitgirl-repacks.site/) - Video game repacker
+
+- [DODI-repacks](https://dodi-repacks.site/) - Video game repacker
 
 - [igg games](https://igg-games.com) - Source of niche games 
 
@@ -149,5 +149,7 @@ Groonir's list of recommended websites for piracy &amp; privacy
 - [Prism Break](https://prism-break.com) - Source of open source software to escape government tracking
 
 - [Archive.org](https://archive.org) - Find old stuff
+
+- []
 
 
