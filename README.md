@@ -1,6 +1,6 @@
 # GroonirsPiracyList
 
-Groonir's list of recommended websites for piracy &amp; privacy
+Groonir's list of recommended websites for piracy &amp; privacy#
 
 > Feel free to [contribute](https://github.com/Groonir/GroonirsPiracyList/issues/new)!
 
@@ -45,6 +45,8 @@ Groonir's list of recommended websites for piracy &amp; privacy
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
   
+- [Cool Reader](https://sourceforge.net/projects/crengine/) - Ebook reader for android
+
   
 ## Browsers
 
