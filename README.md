@@ -112,7 +112,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Droidify](https://f-droid.org/en/packages/com.looker.droidify/) - F-Droid Frontend Client
 
-
+- [YTDLnis](https://github.com/deniscerri/ytdlnis) - Youtube video and music downloader
 
 ### IOS
 
