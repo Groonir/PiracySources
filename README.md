@@ -114,6 +114,8 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Youtube video and music downloader
 
+- [Mucke](https://github.com/moritz-weber/mucke) - Music player with nice ui
+
 ### IOS
 
 - [Altstore](https://altstore.io/) - Sideload apps without rooting
