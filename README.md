@@ -76,7 +76,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
  
 ## Email
 
-  - [Proton Mail](https://proton.me/mail) - Encrypted mail with proprietary code
+  - [Proton Mail](https://proton.me/mail) - Proprietary encrypted mail
   
   - [Emailnator](https://emailnator.com) - One of many temporary email services
   
@@ -97,9 +97,9 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Zoro](https://zoro.to) - Anime site with modrn user interface
 
-- [FMovies](https://fmovies.to) - Movie and Tv show aggregator
+- [FMovies](https://fmovies.to) - Movie and Tv show sreaming site
 
-- [Soap2Day](https://soap2day.to) - Tv shows aggregator
+- [Soap2Day](https://soap2day.to) - Tv show streaming site
 
 
 ## OS Exclusives
@@ -126,6 +126,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Windows 10+ Debloat](https://github.com/LeDragoX/Win-Debloat-Tools) - Tool to debloat windows
 
+- [YT-dlp]()
 
 ## Torrents
 
@@ -154,6 +155,5 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Archive.org](https://archive.org) - Find old stuff
 
-- []
 
 
