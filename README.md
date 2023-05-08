@@ -126,7 +126,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Windows 10+ Debloat](https://github.com/LeDragoX/Win-Debloat-Tools) - Tool to debloat windows
 
-- [YT-dlp]()
+- [YT-dlp](https://github.com/yt-dlp/yt-dlp) - Command line video and audio download utility
 
 ## Torrents
 
