@@ -54,6 +54,8 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
 
+- [Z-lib](https://singlelogin.re/) - Book download website with mandatory registration. Works well for nearly anything mainstream
+
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
   
 - [Cool Reader](https://sourceforge.net/projects/crengine/) - Ebook reader for android
@@ -87,9 +89,9 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
  
 ## Email
 
-  - [Proton Mail](https://proton.me/mail) 🅿️ - encrypted mail
+  - [Proton Mail](https://proton.me/mail) 🅿️ - Encrypted mail
 
-  - [Tutanota](
+  - [Tutanota](https://mail.tutanota.com/) 🅿️ - Encrypted mail
   
   - [Emailnator](https://emailnator.com) - One of many temporary email services
   
