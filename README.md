@@ -112,7 +112,7 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [GogoAnime](https://gogoanime3.net) - Anime site with old-looking user interface
 
-- [Zoro](https://aniwatch.to) - Anime site with modern user interface
+- [Aniwatch](https://aniwatch.to) - Anime site with modern user interface #Formerly known as Zoro
 
 - [FMovies](https://fmoviesz.to) - Movie and Tv show sreaming site
 
