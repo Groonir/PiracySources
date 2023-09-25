@@ -51,6 +51,7 @@ Some Links here point to project websites which should be self-explanatory to us
 This is just a linkbook and isnt meant to be a guide to setting up software mentioned here.
 
 ## Books
+
 - [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
@@ -78,7 +79,7 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 ## Communication 
 
-- [Signal](https://signal.org) - E2E video and chat service 
+- [Signal](https://signal.org) 🅿️  - E2E video and chat service 
 
 - [Briar](https://briar.org) - E2E chat service without 
 
@@ -86,7 +87,9 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
  
 ## Email
 
-  - [Proton Mail](https://proton.me/mail) - Proprietary encrypted mail
+  - [Proton Mail](https://proton.me/mail) 🅿️ - encrypted mail
+
+  - [Tutanota](
   
   - [Emailnator](https://emailnator.com) - One of many temporary email services
   
@@ -98,7 +101,9 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [KDE Connect](https://kdeconnect.kde.org/) - Send files, input and push clipboard between devices
 
-  - [AnonFiles](https://anonfiles.com/) - File upload service with 20gb limit
+- [AnonFiles](https://anonfiles.com/) - File upload service with 20gb limit
+
+- [PixelDrain](https://pixeldrain.com/) - File upload service
 
  
 ## Movies & TV
@@ -132,9 +137,9 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 ### IOS
 
-- [Altstore](https://altstore.io/) - Sideload apps without rooting
+- [Altstore](https://altstore.io/) 🅿️  - Sideload apps without rooting
 
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus/) Youtube without ads and more premium features
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus/) - Youtube without ads and more premium features
 
 ### Windows
 
