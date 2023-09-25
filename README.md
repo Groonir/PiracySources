@@ -93,13 +93,14 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
  
 ## Movies & TV
 
-- [GogoAnime](https://gogoanime.llc) - Anime site with old-looking user interface
+- [GogoAnime](https://gogoanime3.net) - Anime site with old-looking user interface
 
-- [Zoro](https://zoro.to) - Anime site with modrn user interface
+- [Zoro](https://aniwatch.to) - Anime site with modern user interface
 
-- [FMovies](https://fmovies.to) - Movie and Tv show sreaming site
+- [FMovies](https://fmoviesz.to) - Movie and Tv show sreaming site
 
 - [Soap2Day](https://soap2day.to) - Tv show streaming site
+
 
 
 ## OS Exclusives
@@ -115,6 +116,9 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Youtube video and music downloader
 
 - [Mucke](https://github.com/moritz-weber/mucke) - Music player with nice ui
+
+- [CloudStream](https://github.com/recloudstream/cloudstream) - Android App for streaming movies and anime #Use megarepo code for site repository to get all availiable sources
+
 
 ### IOS
 
@@ -153,7 +157,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Prism Break](https://prism-break.com) - Source of open source software to escape government tracking
 
-- [Archive.org](https://archive.org) - Find old stuff
+- [Archive.org](https://archive.org) - Find old stuff: Movies, Software etc.
 
 
 
