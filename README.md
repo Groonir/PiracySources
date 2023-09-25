@@ -1,6 +1,6 @@
-# GroonirsPiracyList
+# PiracySources
 
-Groonir's list of recommended websites and FOSS programmes for piracy &amp; privacy
+A list of recommended websites and FOSS programmes for piracy &amp; privacy
 
 > Feel free to [contribute](https://github.com/Groonir/GroonirsPiracyList/issues/new)!
 
