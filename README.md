@@ -10,6 +10,8 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 # Contents
 
+- [Instructions](#instructions)
+
 - [Books](#books)
 
 - [Browsers](#browsers)
@@ -39,6 +41,14 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 - - [Miscellaneous](#miscellaneous)
 
 -----------------
+
+# Instructions
+
+Some Links here point to project websites which should be self-explanatory to use. Links pointing to Github pages usually contain a releases button where you can download the latest software releases.
+
+🅿️ is used when the software shown is proprietary. Websites as services do not count.
+
+This is just a linkbook and isnt meant to be a guide to setting up software mentioned here.
 
 ## Books
 - [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
@@ -70,7 +80,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Signal](https://signal.org) - E2E video and chat service 
 
-- [Briar](https://briar.org) - E2E chat service 
+- [Briar](https://briar.org) - E2E chat service without 
 
 - 
  
