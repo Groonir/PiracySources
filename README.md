@@ -47,6 +47,7 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 # Instructions
 
 Some Links here point to project websites which should be self-explanatory to use. Links pointing to Github pages usually contain a releases button where you can download the latest software releases.
+When Torrenting, it is recommended to ue a vpn to hide your ip. Vpns are often mismarketed as a cure-all which isnt true. Before trying out something new, do some research into protecting yourself. 
 
 🅿️ is used when the software shown is proprietary. Websites as services do not count.
 
@@ -177,7 +178,9 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [DODI-repacks](https://dodi-repacks.site/) - Video game repacker
 
-- [igg games](https://igg-games.com) - Source of niche games 
+- [GOG games](https://gog-games.to/) - Direct Download Site of Steam games
+
+- [SteamRip](https://steamrip.com/) - Direct Download Site of Steam games
 
 
 ## Miscellaneous
@@ -188,3 +191,10 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 
 
+# Terminology
+
+- DDL - Direct Download - refers to a site where files are downloaded directly from the server
+
+- CLI - Command Line Interface - refers to programmes whose way of usage is through text commands
+
+- OS - Operating System - Type of operating system of device eg Windows, Android, Ios
