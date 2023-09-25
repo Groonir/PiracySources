@@ -26,6 +26,8 @@ Groonir's list of recommended websites and FOSS programmes for piracy &amp; priv
 
 - [Movies & TV](#movies--tv)
 
+- [Music](#music)
+
 - [OS Exclusives](#os-exclusives)
 
    - [Android](#android)
@@ -85,7 +87,7 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [Signal](https://signal.org) 🅿️  - E2E video and chat service 
 
-- [Briar](https://briar.org) - E2E chat service without 
+- [Briar](https://briar.org) - E2E serverless chat
 
 - 
  
@@ -120,6 +122,12 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [Soap2Day](https://soap2day.to) - Tv show streaming site
 
+
+## Music
+
+- [SlavArt](https://slavart.gamesdrive.net/) - Flac file download from deezer and other sources
+
+- [Free-Mp3-download](https://free-mp3-download.net/) - Mp3 and Flac file downloader
 
 
 ## OS Exclusives
