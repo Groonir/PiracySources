@@ -50,6 +50,8 @@ Some Links here point to project websites which should be self-explanatory to us
 
 This is just a linkbook and isnt meant to be a guide to setting up software mentioned here.
 
+-----------------
+
 ## Books
 
 - [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
