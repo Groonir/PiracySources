@@ -14,9 +14,9 @@ A list of recommended websites and FOSS programmes for piracy &amp; privacy
 
 - [Books](#books)
 
-- [Browsers](/browsers/Browsers.md)
+- [Browsers](/Browser/Browsers.md)
      
-   - [Browser Addons](/Browsers/addons)
+   - [Browser Addons](/Browser/Addons.md)
 
 - [Communication](#communication)
 
