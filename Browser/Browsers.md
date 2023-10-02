@@ -9,12 +9,13 @@
 ## Browser Addons
 
 
-### Firefox Addons
+### Firefox AAddons
+
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Blocks ads and malicious sites
 
 - [Violent Monkey](https://github.com/violentmonkey/violentmonkey) - adds userscript support
 
-		> Userscript source: [GreasyFork](https://greasyfork.org/en/scripts)
+		- Userscript source: [GreasyFork](https://greasyfork.org/en/scripts)
 
 - [NoScriptSuite](https://github.com/hackademix/noscript) - blocks javascript & more
 
