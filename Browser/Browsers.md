@@ -4,7 +4,7 @@
 > [Click here](###firefox-addons) for firefox addons
 
 -[LibreWolf](https://librewolf.net/installation/) Firefox but hardened by default
-> [Click here](###firefox-addons) for firefox addons as it is Firefox
+> [Click here](###firefox-addons) for firefox addons as it is based on Firefox
 
 ## Browser Addons
 
