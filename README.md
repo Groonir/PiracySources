@@ -15,8 +15,6 @@ A list of recommended websites and FOSS programmes for piracy &amp; privacy
 - [Books](#books)
 
 - [Browsers](/Browser/Browsers.md)
-     
-   - [Browser Addons](/Browser/Addons.md)
 
 - [Communication](#communication)
 
@@ -47,11 +45,11 @@ A list of recommended websites and FOSS programmes for piracy &amp; privacy
 # Instructions
 
 Some Links here point to project websites which should be self-explanatory to use. Links pointing to Github pages usually contain a releases button where you can download the latest software releases.
-When Torrenting, it is recommended to ue a vpn to hide your ip. Vpns are often mismarketed as a cure-all which isnt true. Before trying out something new, do some research into protecting yourself. 
+When Torrenting, it is recommended to ue a vpn to hide your ip. Vpns are often mismarketed as a cure-all which isnt true.
+
+Before trying out something new, do some research to protect yourself. 
 
 🅿️ is used when the software shown is proprietary. Websites as services do not count.
-
-This is just a linkbook and isnt meant to be a guide to setting up software mentioned here.
 
 -----------------
 
@@ -59,7 +57,7 @@ This is just a linkbook and isnt meant to be a guide to setting up software ment
 
 - [libgen](https://libgen.rs) - Good for eBooks and scientific papers 
 
-- [Z-lib](https://singlelogin.re/) - Book download website with mandatory registration. Works well for nearly anything mainstream
+- [Z-lib](https://singlelogin.se/) - Book download website with mandatory registration. Works well for nearly anything mainstream
 
 - [gutemberg](https://www.gutenberg.org/) - Legal Book library
   
