@@ -15,7 +15,7 @@
 
 - [Violent Monkey](https://github.com/violentmonkey/violentmonkey) - adds userscript support
 
-		- Userscript source: [GreasyFork](https://greasyfork.org/en/scripts)
+		- [GreasyFork](https://greasyfork.org/en/scripts) userscript source
 
 - [NoScriptSuite](https://github.com/hackademix/noscript) - blocks javascript & more
 
