@@ -47,7 +47,7 @@ A list of recommended websites and FOSS programmes for piracy &amp; privacy
 Some Links here point to project websites which should be self-explanatory to use. Links pointing to Github pages usually contain a releases button where you can download the latest software releases.
 When Torrenting, it is recommended to ue a vpn to hide your ip. Vpns are often mismarketed as a cure-all which isnt true.
 
-Before trying out something new, do some research to protect yourself. 
+Before trying out something new, do some research to shield yourself. 
 
 🅿️ is used when the software shown is proprietary. Websites as services do not count.
 
@@ -82,6 +82,7 @@ Before trying out something new, do some research to protect yourself.
 
 - [Sponsor Block](https://github.com/ajayyy/SponsorBlock) - Youtube addon to skip sponsored segments
 
+
 ## Communication 
 
 - [Signal](https://signal.org) 🅿️  - E2E video and chat service 
@@ -91,6 +92,7 @@ Before trying out something new, do some research to protect yourself.
 - 
  
 ## Email
+
 
   - [Proton Mail](https://proton.me/mail) 🅿️ - Encrypted mail
 
