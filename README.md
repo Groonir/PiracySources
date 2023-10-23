@@ -130,6 +130,8 @@ Before trying out something new, do some research to shield yourself.
 
 - [Free-Mp3-download](https://free-mp3-download.net/) - Mp3 and Flac file downloader
 
+- [Tidal Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download from tidal
+
 
 ## OS Exclusives
 
@@ -161,6 +163,9 @@ Before trying out something new, do some research to shield yourself.
 - [YT-dlp](https://github.com/yt-dlp/yt-dlp) - Command line video and audio download utility
 
 ## Torrents
+
+
+- [Private Trackers](/Torrent/trackers.md)
 
 - [QBittorrent](https://qbittorrent.org) - Open source torrent client
   
