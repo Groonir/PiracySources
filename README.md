@@ -160,6 +160,8 @@ Before trying out something new, do some research to shield yourself.
 
 - [Windows 10+ Debloat](https://github.com/LeDragoX/Win-Debloat-Tools) - Tool to debloat windows
 
+- [Windows 11 debloat](https://github.com/Raphire/Win11Debloat) - Windows 11 debloater
+
 - [YT-dlp](https://github.com/yt-dlp/yt-dlp) - Command line video and audio download utility
 
 ## Torrents
