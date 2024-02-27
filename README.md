@@ -5,8 +5,9 @@ A list of recommended websites and FOSS programmes for piracy &amp; privacy
 > Feel free to [contribute](https://github.com/Groonir/GroonirsPiracyList/issues/new)!
 
 [Contact me](mailto:8jf4n3r@proton.me)
-
-##Moved to [Codeberg.org](https://codeberg.org/Groonir/PiracySources/src/branch/main/README.md)
+```diff
+- Moved to https://codeberg.org/Groonir/PiracySources/src/branch/main/README.md
+```
 -----------------
 
 # Contents
