@@ -70,7 +70,7 @@ Before trying out something new, do some research to shield yourself.
 
 - [Firefox](https://firefox.com) - Privacy focused browser with addons
 
-
+- [LibreWolf](https://librewolf.net/) - Firefox but better
 
 ### Browser Addons
 
@@ -121,8 +121,7 @@ Before trying out something new, do some research to shield yourself.
 
 - [FMovies](https://fmoviesz.to) - Movie and Tv show sreaming site
 
-- [Soap2Day](https://soap2day.to) - Tv show streaming site
-
+- [Sudo Flix](https://www.sudo-flix.lol/) Movie and Tv show aggregator site(Currently working mirror of movie-web.app)
 
 ## Music
 
@@ -132,6 +131,7 @@ Before trying out something new, do some research to shield yourself.
 
 - [Tidal Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download from tidal
 
+- [Double Double](https://doubledouble.top/) - Mp3 and Flac file download from deezer and other sources
 
 ## OS Exclusives
 
@@ -146,6 +146,8 @@ Before trying out something new, do some research to shield yourself.
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Youtube video and music downloader
 
 - [Mucke](https://github.com/moritz-weber/mucke) - Music player with nice ui
+
+- [Auxio](https://github.com/OxygenCobalt/Auxio) - Music player with cool design
 
 - [CloudStream](https://github.com/recloudstream/cloudstream) - Android App for streaming movies and anime #Use megarepo code for site repository to get all availiable sources
 
